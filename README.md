@@ -9,6 +9,7 @@ Each writeup covers what the room taught, tools/commands used, and my personal t
 | Room | Path | Category | Date | Writeup |
 |------|------|----------|------|---------|
 | Cybersecurity 101 | Cyber Security 101 | Offensive + Defensive + OSINT | Apr 2025 | [View](./cybersecurity-101.md) |
+| What is Networking? | Cyber Security 101 | Networking Fundamentals | May 2025 | [View](./networking-fundamentals.md) |
 
 *Updated as I complete rooms.*
 
